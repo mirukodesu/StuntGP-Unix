@@ -5,10 +5,10 @@ Running StuntGP on Linux distros using Proton and MacOS Arm & Intel and current 
 >This was tested on linux **Debian 13** with KDE and MacBook Air M5 with MacOS 27 Public beta 1.
 
 >[!NOTE]
->The old methods have been moved to a diffrent file to minimize clutter, click here to access the file.
+>The old methods have been moved to a diffrent file to minimize clutter, [click here](Old-Methods.md) to access the file.
 
 >[!WARNING]
->The new method for Linux only works for cards with **Vulkan** Support, cards without **Vulkan** support MUST use the [old method](), there are currently no workarounds!
+>The new method for Linux only works for cards with **Vulkan** Support, cards without **Vulkan** support MUST use the [old method](Old-Methods.md), there are currently no workarounds!
 
 # Special Thanks to:
 The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
