@@ -1,5 +1,5 @@
-#The Old Method - (For non Vulkan Cards)
-###This file explains the old methods but there are some things to keep in mind:
+# The Old Method - (For non Vulkan Cards)
+### This file explains the old methods but there are some things to keep in mind:
 
 >[!CAUTION]
 > Graphical glitches, stutters, crashes and other errors ARE unfortunatly expected, i will try my best to help but there arent a lot of fixes, consider playing the game on a virtual machine if you're having problems (im really sorry :( )
