@@ -13,17 +13,6 @@ Running StuntGP on Linux distros using Proton and MacOS Arm & Intel and current 
 # Special Thanks to:
 The community on the [Trickstart](https://discord.gg/ykzAWnA) Discord Server
 
-# Prerequisites - Old Method
-> [Wine](https://www.winehq.org/)
-
-> [PlayOnLinux](https://www.playonlinux.com/en/)
-
-> [A StuntGP Iso](https://www.myabandonware.com/game/stunt-gp-ddu)
-
-> [StuntKit](https://github.com/stuntkit/StuntKit) and [SkScreen Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0) (Optional): [SkFreeze Module](https://github.com/stuntkit/StuntKit_modules/releases/tag/v0.3.0).
-
-> And most importantly patience (A LOT OF PATIENCE)
-
 ## Want to fix the StuntGP trick timer?
 (It seems like the StuntGP Trick timer is **halfed** when we play on refresh rates higher than 60hz. this affects gameplay and requires to hit the Trick key almost *frame perfect* to do tricks while flying)
 ### The Steam Method of fixing this bug. (requires the game in the steam library so follow the steps before if you want to do this fix)
