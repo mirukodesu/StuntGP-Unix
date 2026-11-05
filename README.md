@@ -1,7 +1,7 @@
 # We have a new method + Archiving repository
-Me, Claude and Dreiji joined forces to make a ported version of StuntGP for MacOS and Linux, it uses the Vulkan and Metal renderers and runs natively on Arm and x86/
-For now this repository is no longer manteined and its getting archived./
-The new repository is located at: [StuntGP-CrossPlatform](https://github.com/mirukodesu/StuntGP-CrossPlatform)/
+- Me, Claude and Dreiji joined forces to make a ported version of StuntGP for MacOS and Linux, it uses the Vulkan and Metal renderers and runs natively on Arm and x86/
+- For now this repository is no longer manteined and its getting archived.
+- The new repository is located at: [StuntGP-CrossPlatform](https://github.com/mirukodesu/StuntGP-CrossPlatform)
 
 # StuntGP-Unix
 Running StuntGP on Linux distros using Proton and MacOS Arm & Intel and current limitations with these methods.
